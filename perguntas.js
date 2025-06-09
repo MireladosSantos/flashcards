@@ -1,23 +1,23 @@
 criaCartao(
-    'categoria', 
-    'pergunta', 
-    'resposta'
+    'programação', 
+    'o que é JavaScript?', 
+    'linguagem de programação'
 )
 
 criaCartao(
-    'categoria', 
-    'pergunta', 
-    'resposta'
+    'Inglês', 
+    'como fla dia de pagamento?', 
+    'pay day'
 )
 
 criaCartao(
-    'categoria', 
-    'pergunta', 
-    'resposta'
+    'matemática', 
+    'qual a raiz qadrada de 144?', 
+    '12'
 )
 
 criaCartao(
-    'categoria', 
-    'pergunta', 
-    'resposta'
+    'História', 
+    'quem descobriu o Brasil?', 
+    'Pedro Alváres Cabral'
 )
