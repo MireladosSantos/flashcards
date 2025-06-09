@@ -6,18 +6,18 @@ criaCartao(
 
 criaCartao(
     'Inglês', 
-    'como fla dia de pagamento?', 
+    'como fala dia de pagamento?', 
     'pay day'
 )
 
 criaCartao(
-    'matemática', 
-    'qual a raiz qadrada de 144?', 
+    'Matemática', 
+    'Qual a raiz qadrada de 144?', 
     '12'
 )
 
 criaCartao(
     'História', 
-    'quem descobriu o Brasil?', 
+    'Quem descobriu o Brasil?', 
     'Pedro Alváres Cabral'
 )
