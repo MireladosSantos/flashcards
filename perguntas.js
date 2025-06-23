@@ -76,4 +76,18 @@ criaCartao(
     'Como se fala bom dia em inglês? ', 
     'Good Morning',
 )
-
+criaCartao(
+    'Geografia',
+    'Qual país com maior população? ', 
+    'Índia',
+)
+criaCartao(
+    'Matemática',
+    'Qual a raiz quadrada de 225? ', 
+    '15',
+)
+criaCartao(
+    'História',
+    'Qual a data da queda das torres gêmeas? ', 
+    '11 de Setembro de 2001',
+)
