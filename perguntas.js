@@ -48,5 +48,32 @@ criaCartao(
 )
 criaCartao(
     'Física', 
-    'Qual o nome da grandeza que mede a desordem de um sistema e a energia do sistema que não pode se trasnformar em trabalho, se dissipando?', 
-    'Entropia', )
+    'Qual o nome da grandeza que mede a desordem de um sistema e a energia do sistema que não pode se transformar em trabalho, se dissipando?', 
+    'Entropia', 
+)
+criaCartao(
+    'Projeto de Vida', 
+    'Qual a importância de se ter um projeto de vida?', 
+    'Para se ter uma organização no futuro',
+)
+criaCartao(
+    'Química', 
+    'Qual a partícula formadora de toda matéria?', 
+    'Átomos',
+)
+criaCartao(
+    'Matemática', 
+    'Quem é o pai da Matemática?', 
+    'Arquimendes',
+)
+criaCartao(
+    'Química', 
+    'Qual os dois processos de alteração a matéria pode sofrer?', 
+    'Físico e Químico',
+)
+criaCartao(
+    'Inglês',
+    'Como se fala bom dia em inglês? ', 
+    'Good Morning',
+)
+
