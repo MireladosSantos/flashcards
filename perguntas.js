@@ -48,5 +48,5 @@ criaCartao(
 )
 criaCartao(
     'Física', 
-    'Qual o nome da grandeza que mede a desordem de um sistema e a energia do sistema que não pode se trasnformar em trabalho, se dissipando', 
-    'Entropia',
+    'Qual o nome da grandeza que mede a desordem de um sistema e a energia do sistema que não pode se trasnformar em trabalho, se dissipando?', 
+    'Entropia', )
