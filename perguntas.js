@@ -68,7 +68,7 @@ criaCartao(
 )
 criaCartao(
     'Química', 
-    'Qual os dois processos de alteração a matéria pode sofrer?', 
+    'Qual são os dois processos de alteração a matéria pode sofrer?', 
     'Físico e Químico',
 )
 criaCartao(
